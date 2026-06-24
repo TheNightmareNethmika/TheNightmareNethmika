@@ -282,20 +282,15 @@ Project Coordination
 
 ---
 
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
-📧 **Email**
-[abeysinghenethmika@gmail.com](mailto:abeysinghenethmika@gmail.com)
+📧 **Email:** [abeysinghenethmika@gmail.com](mailto:abeysinghenethmika@gmail.com)
 
-💼 **LinkedIn**
-linkedin.com/in/nethmika-abeysinghe-b8595639a
+💼 **LinkedIn:** [Nethmika Abeysinghe](https://www.linkedin.com/in/nethmika-abeysinghe-b8595639a)
 
-💻 **GitHub**
-github.com/TheNightmareNethmika
+💻 **GitHub:** [TheNightmareNethmika](https://github.com/TheNightmareNethmika)
 
-📍 **Location**
-Kurunegala, Sri Lanka
-
+📍 **Location:** Kurunegala, Sri Lanka
 ---
 
 <div align="center">
