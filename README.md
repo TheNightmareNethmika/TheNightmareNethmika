@@ -4,7 +4,7 @@
 🏫 Sri Lanka Institute of Information Technology (SLIIT)  
 🇱🇰 Sri Lanka  
 
-💻 Aspiring Software Engineer | Frontend & UI/UX Enthusiast  
+💻 Aspiring Project Manager | Frontend & UI/UX Enthusiast  
 
 ---
 
