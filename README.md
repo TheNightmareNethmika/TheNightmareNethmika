@@ -16,12 +16,12 @@
 
 I am a **Third-Year BSc (Hons) Information Technology Undergraduate** at **SLIIT** with practical experience in:
 
-✔ Full-Stack Web Development
-✔ Mobile Application Development
-✔ Software Testing & Quality Assurance
-✔ UI/UX Design & Wireframing
-✔ Technical Documentation
-✔ Team Leadership & Project Coordination
+- 🚀 Full-Stack Web Development
+- 📱 Mobile Application Development
+- 🧪 Software Testing & Quality Assurance
+- 🎨 UI/UX Design & Wireframing
+- 📝 Technical Documentation
+- 👥 Team Leadership & Project Coordination
 
 Throughout my academic journey, I have successfully contributed to multiple software development projects while leading teams, coordinating tasks, managing timelines, and ensuring project deliverables were completed effectively.
 
